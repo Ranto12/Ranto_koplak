@@ -1,2 +1,8 @@
 # Ranto_koplak
-pemrogram handa
+pemrogram handal
+#include <iostream>
+#using namespace std;
+main int (){
+  cout <<"nama saya ranto"<<endl;
+  return 0;
+  }
